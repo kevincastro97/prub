@@ -29,7 +29,7 @@ class LoginContainer extends Component {
 
     miEventoDeBotonIniciarSession = () => {
         const { usuario, pass } = this.state;
-        if(usuario === "Admin" && pass === "1234") {
+        if(usuario === "Prueba" && pass === "123") {
             this.setState({
                 logged: true,
             });
