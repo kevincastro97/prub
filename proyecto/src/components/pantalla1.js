@@ -11,7 +11,7 @@ const Pantalla1 =()=>{
                 Esta es la pantalla numero 1
             </Text>
         </View>
-    )
+    )    
 }
 
 export default Pantalla1;
